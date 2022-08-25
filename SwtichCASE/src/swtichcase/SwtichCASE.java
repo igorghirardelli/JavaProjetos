@@ -13,6 +13,7 @@ public class SwtichCASE {
         System.out.println("Entre com um dia da semana (1-7)");
         int diaSemana = scan.nextInt();
         
+       
         
         
         if(diaSemana == 1){
