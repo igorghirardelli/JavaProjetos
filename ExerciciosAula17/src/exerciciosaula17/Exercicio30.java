@@ -34,9 +34,9 @@ public class Exercicio30 {
         
         
         
-        System.out.println("Tabuada de :" + num + ":");
-        System.out.println("Campo por :" + numinicio);
-        System.out.println("Termina por :" + numfinal);
+        System.out.println("Tabuada de:" + num + ":");
+        System.out.println("Campo por:" + numinicio);
+        System.out.println("Termina por:" + numfinal);
         System.out.println();
         
         for(int i = numinicio; i <=numfinal; i++){
