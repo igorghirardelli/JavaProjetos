@@ -17,7 +17,7 @@ public class Exercicio35 {
         // PEQUENA REDE DE FASTFOOD
         
         
-      boolean naoterminar = true;
+        boolean naoterminar = true;
         int cod; // codigo
         int qtd; // quantidade
         double total = 0;
@@ -46,7 +46,7 @@ public class Exercicio35 {
                 valorpago = teclado.nextDouble();
                 output += "total a pagar = "+total+"\n";
                 output += "Dinheiro: R$ "+ valorpago +"\n";
-                troco = total - valorpago;
+                troco = valorpago - total;
                 
                 output += "Troco: R$ "+ troco +"\n";
                 
