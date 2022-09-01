@@ -53,7 +53,7 @@ public class Exercicio25 {
                 output += "Dinheiro: R$ "+ valorpago +"\n";
 
                 
-                troco = total - valorpago;
+                troco = valorpago - total;
                 
                 output += "Troco: R$ "+ troco +"\n";
                 

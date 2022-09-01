@@ -20,10 +20,10 @@ public class Exercicio35 {
         boolean naoterminar = true;
         int cod; // codigo
         int qtd; // quantidade
-        double total = 0;
+        double total = 0; // total da compra
         String output = "";
-        double valorpago;
-        double troco;
+        double valorpago; // o dinheiro que vc vai pagar
+        double troco; // o troco do seu valor pago
         
         System.out.println("Bem vindo ao Rei do hamburguer");
         System.out.println("1 - Hamburguer simples");
