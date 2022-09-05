@@ -9,13 +9,15 @@ public class SistemaColegio {
     
     public static void main(String[] args) {
         
+        
+        
         Scanner teclado = new Scanner (System.in);
         System.out.println("------------------------------------");
         System.out.println("Bem vindos ao colégio Santo Antonio");
         System.out.println("-------------------------------------");
         
         System.out.println("Digite seu nome");
-        String nome = teclado.nextLine();
+        String nome = teclado.next();
         
         System.out.println("Digite sua primeira nota: ");
         double nota1 = teclado.nextDouble();

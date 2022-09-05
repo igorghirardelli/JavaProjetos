@@ -24,7 +24,7 @@ public class BreakEContinue {
         
         for(int i = num; i<=max; i++){
             System.out.println(i);// só pra mostrar que ele realmente sai
-            if(i % 7 == 0){
+            if(i % 15 == 0){
                 System.out.println("O valor de i é: "+i);
                 break;
             }
