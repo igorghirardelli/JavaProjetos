@@ -15,14 +15,16 @@ public class Exercicio5 {
         Scanner teclado = new Scanner(System.in);
         
         String nome;
-        int atual;
-        int nasc;
-        int idade;
+        int atual;// ano atual
+        int nasc;// nascimento da pessoa
+        int idade;// pra descobrir a idade dela
         String estado;
         String braco;
         
+        String resp = "";
+        do {
         System.out.println("Digite seu nome :");
-        nome = teclado.nextLine();
+        nome = teclado.next();
         
         System.out.println("Digite o ano atual: ");
         atual = teclado.nextInt();
@@ -53,6 +55,10 @@ public class Exercicio5 {
             System.out.println("Ola " +nome+ " voce tem "+idade+"portanto não pode tirar sua carteira de motorista");
         }
         
+            System.out.println("");
+            System.out.println("Deseja continuar? (sim/nao)");
+            resp = teclado.next();
+        }while(resp.contains("sim"));
         
     }
 }
