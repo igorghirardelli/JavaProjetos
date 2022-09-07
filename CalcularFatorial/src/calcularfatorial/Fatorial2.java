@@ -29,5 +29,6 @@ public class Fatorial2 {
             System.out.print(i + " . ");
         }
          System.out.print(" 1 = " +fatorial);
+         System.out.println("");
     }
 }
