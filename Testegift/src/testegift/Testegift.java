@@ -8,8 +8,9 @@ public class Testegift {
 
     
     public static void main(String[] args) {
-        Scanner ler = new Scanner(System.in);
-    String answer = "";
+        Scanner ler = new Scanner(System.in);     
+        
+        String answer = "";
     do {
         double n1, n2;
         System.out.println("Digite o valor da nota 1 e da nota 2: ");
@@ -31,6 +32,14 @@ public class Testegift {
         System.out.println();
 
     } while (answer.equalsIgnoreCase("sim"));
+        
+        
+        
+        
+        
+        
+        
+        
         
     }
 
