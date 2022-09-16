@@ -18,7 +18,7 @@ public class Tabuada {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         
-        int tabuada ;
+        int tabuada;
         String resp =  "";
         
         do{
