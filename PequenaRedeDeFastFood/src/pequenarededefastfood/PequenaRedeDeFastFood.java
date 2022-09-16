@@ -41,7 +41,7 @@ public class PequenaRedeDeFastFood {
             if(cod == 0 && qtd == 0){
                 naoterminar  = false;
                  //  o total da compra deu 11 e vc pagou 15 
-                
+                 // testando
                 System.out.println("Total a pagar = "+total);
                 System.out.println("Entre com o valor pago: ");
                 valorpago = teclado.nextDouble();
