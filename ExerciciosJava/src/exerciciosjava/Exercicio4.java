@@ -19,6 +19,8 @@ public class Exercicio4 {
         double resu; // 20% de juros para descobrir quanto ele vai pagar
         double valorparc;
         double y = 20;// 20% de juros
+        String resp = "";
+        do{
         
         System.out.println("Quantos reais voce quer pegar emprestado ?");
         reais = teclado.nextDouble();
@@ -31,9 +33,10 @@ public class Exercicio4 {
         
         System.out.println("O preco sera de : "+ (resu+reais));
         System.out.println("Cada parcela vai ser de : "+(reais+resu)/parcela);
-        
-        
-        
+        System.out.println("");
+            System.out.println("Deseja uma nova consulta? (sim/nao)");
+            resp =  teclado.next();
+        }while(resp.contains("sim"));
         
     }
 }
