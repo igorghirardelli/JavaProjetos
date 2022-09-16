@@ -79,7 +79,9 @@ public class PequenaRedeDeFastFood {
                     output += "Refrigerante coca cola -> 1.00 *"+qtd;
                     output += " = " + (1.00*qtd)+"\n";
                     total += 1.00*qtd;
+                    
                 }
+                
             }
             
         }while(naoterminar);
