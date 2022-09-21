@@ -18,7 +18,7 @@ public class Matrizes {
     public static void main(String[] args) {
        Scanner teclado = new Scanner(System.in);
        
-       double [][] notasalunos = new double [3][4]; // 30 alunos para 4 notas
+       double [][] notasalunos = new double [3][4]; // 3 alunos para 4 notas  3 linhas para 4 colunas
                
        notasalunos[0][0] = 10;
        notasalunos[0][1] = 7;              
@@ -46,7 +46,7 @@ public class Matrizes {
       
       notasalunos[1][3] = 8; // caso eu querer trocar a nota do aluno
       
-        System.out.println(""); 
+        System.out.println(); 
       
       
       for(int i = 0; i<notasalunos.length;i++){
@@ -75,9 +75,9 @@ public class Matrizes {
        
      //double[] notasalunos1 =  {7,8,9,10};
       
-     double[][] notasalunos2 = {{7, 8, 9, 10}, {8, 6, 7, 10}};
+     double[][] notasalunos2 = {{7, 8, 9, 10}, {8, 6, 7, 10}}; // iniciar matrizes de uma vez 
      
-        System.out.println("Output da matrix notaAlunos2");
+        System.out.println("Output da matriz notaAlunos 2");
      for(int i = 0; i<notasalunos2.length;i++){
           
           for(int j=0; j<notasalunos2[i].length;j++){
