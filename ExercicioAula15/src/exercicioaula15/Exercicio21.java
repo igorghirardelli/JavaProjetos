@@ -37,7 +37,7 @@ public class Exercicio21 {
             }
             total = litros * precogas;
         }
-        
+        System.out.println("O total sem o desconto foi: "+total);
         totaldesc = (total/100)*desc;
         double precoapagar = total - totaldesc;
         System.out.println("O total de desconto foi: "+totaldesc);
