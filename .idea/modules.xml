@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Break e Continue/Break e Continue.iml" filepath="$PROJECT_DIR$/Break e Continue/Break e Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" filepath="$PROJECT_DIR$/CalculadoraIMC/CalculadoraIMC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculadoraSwtichCase/CalculadoraSwtichCase.iml" filepath="$PROJECT_DIR$/CalculadoraSwtichCase/CalculadoraSwtichCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalcularFatorial/CalcularFatorial.iml" filepath="$PROJECT_DIR$/CalcularFatorial/CalcularFatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConverterIdadeEmDias/ConverterIdadeEmDias.iml" filepath="$PROJECT_DIR$/ConverterIdadeEmDias/ConverterIdadeEmDias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DebugNetbeans/DebugNetbeans.iml" filepath="$PROJECT_DIR$/DebugNetbeans/DebugNetbeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioAula15/ExercicioAula15.iml" filepath="$PROJECT_DIR$/ExercicioAula15/ExercicioAula15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioAula19/ExercicioAula19.iml" filepath="$PROJECT_DIR$/ExercicioAula19/ExercicioAula19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioAula20/ExercicioAula20.iml" filepath="$PROJECT_DIR$/ExercicioAula20/ExercicioAula20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios aula 13 Scanner/Exercicios aula 13 Scanner.iml" filepath="$PROJECT_DIR$/Exercicios aula 13 Scanner/Exercicios aula 13 Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosAula17/ExerciciosAula17.iml" filepath="$PROJECT_DIR$/ExerciciosAula17/ExerciciosAula17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExerciciosJava/ExerciciosJava.iml" filepath="$PROJECT_DIR$/ExerciciosJava/ExerciciosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FatorialComVetor/FatorialComVetor.iml" filepath="$PROJECT_DIR$/FatorialComVetor/FatorialComVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" filepath="$PROJECT_DIR$/HoraDoSistema/HoraDoSistema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdiomaSwing/IdiomaSwing.iml" filepath="$PROJECT_DIR$/IdiomaSwing/IdiomaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfElse/IfElse.iml" filepath="$PROJECT_DIR$/IfElse/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImpareParVetor/ImpareParVetor.iml" filepath="$PROJECT_DIR$/ImpareParVetor/ImpareParVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Incompatiblidade de numeros e string/Incompatiblidade de numeros e string.iml" filepath="$PROJECT_DIR$/Incompatiblidade de numeros e string/Incompatiblidade de numeros e string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProjetos.iml" filepath="$PROJECT_DIR$/.idea/JavaProjetos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoopFor/LoopFor.iml" filepath="$PROJECT_DIR$/LoopFor/LoopFor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loopwhiiile/Loopwhiiile.iml" filepath="$PROJECT_DIR$/Loopwhiiile/Loopwhiiile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" filepath="$PROJECT_DIR$/OlaMundoSwing/OlaMundoSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores aritimeticos/Operadores aritimeticos.iml" filepath="$PROJECT_DIR$/Operadores aritimeticos/Operadores aritimeticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Operadores2/Operadores2.iml" filepath="$PROJECT_DIR$/Operadores2/Operadores2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresAritimeticos2/OperadoresAritimeticos2.iml" filepath="$PROJECT_DIR$/OperadoresAritimeticos2/OperadoresAritimeticos2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresSwing/OperadoresSwing.iml" filepath="$PROJECT_DIR$/OperadoresSwing/OperadoresSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PequenaRedeDeFastFood/PequenaRedeDeFastFood.iml" filepath="$PROJECT_DIR$/PequenaRedeDeFastFood/PequenaRedeDeFastFood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" filepath="$PROJECT_DIR$/PrimeiroProjeto/PrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programa idade/Programa idade.iml" filepath="$PROJECT_DIR$/Programa idade/Programa idade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" filepath="$PROJECT_DIR$/RelogioSwing/RelogioSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner 1/Scanner 1.iml" filepath="$PROJECT_DIR$/Scanner 1/Scanner 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner 2/Scanner 2.iml" filepath="$PROJECT_DIR$/Scanner 2/Scanner 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaColegio/SistemaColegio.iml" filepath="$PROJECT_DIR$/SistemaColegio/SistemaColegio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomarValores/SomarValores.iml" filepath="$PROJECT_DIR$/SomarValores/SomarValores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwtichCASE/SwtichCASE.iml" filepath="$PROJECT_DIR$/SwtichCASE/SwtichCASE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TesteLoop/TesteLoop.iml" filepath="$PROJECT_DIR$/TesteLoop/TesteLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testegift/Testegift.iml" filepath="$PROJECT_DIR$/Testegift/Testegift.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" filepath="$PROJECT_DIR$/TiposPrimitivos/TiposPrimitivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vetores(arrays)/Vetores(arrays).iml" filepath="$PROJECT_DIR$/Vetores(arrays)/Vetores(arrays).iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetoresParesImpares/VetoresParesImpares.iml" filepath="$PROJECT_DIR$/VetoresParesImpares/VetoresParesImpares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/idadeteste/idadeteste.iml" filepath="$PROJECT_DIR$/idadeteste/idadeteste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lopForeEchh/lopForeEchh.iml" filepath="$PROJECT_DIR$/lopForeEchh/lopForeEchh.iml" />
+    </modules>
+  </component>
+</project>

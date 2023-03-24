@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LoopFor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LoopFor/dist/LoopFor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
