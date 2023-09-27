@@ -12,8 +12,8 @@ public class Idadeteste {
          System.out.println("digite seu nome e sua idade! ");
         String nome =  teclado.nextLine();
         float nota =  teclado.nextFloat(); 
-        System.out.println("seu nome é:" +nome);
-        System.out.println("e sua idade é:"+nota);
+        System.out.println("seu nome é: " +nome);
+        System.out.println("e sua idade é: "+nota);
     }
     
 }
